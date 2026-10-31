@@ -1,0 +1,635 @@
+{
+ "schema": 1,
+ "home": "media-mechanics",
+ "title": "NeutrinoHit films: mechanics, dynamical systems, optics",
+ "budget_bytes": 900000000,
+ "media": [
+  {
+   "id": "barkov",
+   "variant": "web-star-jet-cloud",
+   "version": 1,
+   "file": "barkov/web-star-jet-cloud-v1.mp4",
+   "asset": "barkov--web-star-jet-cloud--v1.mp4",
+   "release": "barkov",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/barkov/barkov--web-star-jet-cloud--v1.mp4",
+   "sha256": "23c39c454c3c2205d9e84a640f1a7373a7986c5bc5aea198146ab8bd0d642b76",
+   "bytes": 4231960,
+   "duration_s": 39.25,
+   "width": 1090,
+   "height": 796,
+   "audio": false,
+   "title": {
+    "ru": "Звезда, ветер и облако",
+    "en": "A star, a wind and a cloud"
+   }
+  },
+  {
+   "id": "barkov",
+   "variant": "web-star-wind",
+   "version": 1,
+   "file": "barkov/web-star-wind-v1.mp4",
+   "asset": "barkov--web-star-wind--v1.mp4",
+   "release": "barkov",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/barkov/barkov--web-star-wind--v1.mp4",
+   "sha256": "5b325fb265a7bf1183a5885367badaebc44c9234dd6c51007ddbae159f489a90",
+   "bytes": 2004347,
+   "duration_s": 15.7,
+   "width": 1650,
+   "height": 996,
+   "audio": false,
+   "title": {
+    "ru": "Звезда, ветер и облако",
+    "en": "A star, a wind and a cloud"
+   }
+  },
+  {
+   "id": "dipole",
+   "variant": "web",
+   "version": 1,
+   "file": "dipole/web-v1.mp4",
+   "asset": "dipole--web--v1.mp4",
+   "release": "dipole",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/dipole/dipole--web--v1.mp4",
+   "sha256": "5b6752d75937c6d479f636a36825772a905bb0d8e7a6374ecd19551a18ecf6ae",
+   "bytes": 554338,
+   "duration_s": 16.15,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диполь: поворот частицы",
+    "en": "Dipole: turning a particle"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-brain",
+   "version": 1,
+   "file": "fourier-drawing/web-brain-v1.mp4",
+   "asset": "fourier-drawing--web-brain--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-brain--v1.mp4",
+   "sha256": "67b89e6521ac8dbc7afc67ffd9a86cf440a2f12264a9652283f1e3d9e29a3edd",
+   "bytes": 562216,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-dinosaur",
+   "version": 1,
+   "file": "fourier-drawing/web-dinosaur-v1.mp4",
+   "asset": "fourier-drawing--web-dinosaur--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-dinosaur--v1.mp4",
+   "sha256": "b73a380433ee7a76515968a7b97a727a8c8345c4d75fa2224a632132b18c9df5",
+   "bytes": 1497937,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-fourier-svg",
+   "version": 1,
+   "file": "fourier-drawing/web-fourier-svg-v1.mp4",
+   "asset": "fourier-drawing--web-fourier-svg--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-fourier-svg--v1.mp4",
+   "sha256": "9d4ada140dedaec7c73b8e509b3b39f15a23976bf46c36bbaf4ebb1d3870e150",
+   "bytes": 794457,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-pi",
+   "version": 1,
+   "file": "fourier-drawing/web-pi-v1.mp4",
+   "asset": "fourier-drawing--web-pi--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-pi--v1.mp4",
+   "sha256": "9eb702f9c2ca90b1b2d78b3b0dde3e7d5fcfc0be6175d478e005d0192f6e715f",
+   "bytes": 813570,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-telescope",
+   "version": 1,
+   "file": "fourier-drawing/web-telescope-v1.mp4",
+   "asset": "fourier-drawing--web-telescope--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-telescope--v1.mp4",
+   "sha256": "488470ba580dad19c0f78b902d5abc402834d86db27c8e549862fa660df0b7b4",
+   "bytes": 1434976,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-woman-1",
+   "version": 1,
+   "file": "fourier-drawing/web-woman-1-v1.mp4",
+   "asset": "fourier-drawing--web-woman-1--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-woman-1--v1.mp4",
+   "sha256": "9f4f4330e079da0e76276b0221b83daea8edb6e54e4925d883be169baa24cf26",
+   "bytes": 763165,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-woman-2",
+   "version": 1,
+   "file": "fourier-drawing/web-woman-2-v1.mp4",
+   "asset": "fourier-drawing--web-woman-2--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-woman-2--v1.mp4",
+   "sha256": "0f638c1466f71e91cd678b43edeab8481bcba4b06e78140370c46d48ee408cde",
+   "bytes": 878860,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "fourier-drawing",
+   "variant": "web-woman-4",
+   "version": 1,
+   "file": "fourier-drawing/web-woman-4-v1.mp4",
+   "asset": "fourier-drawing--web-woman-4--v1.mp4",
+   "release": "fourier-drawing",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/fourier-drawing/fourier-drawing--web-woman-4--v1.mp4",
+   "sha256": "765b2dbfc4dcb23ef8ee12cedfdacdabc1f0573fce824e54fe8e21c4c9e94f33",
+   "bytes": 951669,
+   "duration_s": 13.62,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Фурье-рисование",
+    "en": "Fourier drawing"
+   }
+  },
+  {
+   "id": "galaxy-merger",
+   "variant": "web-merger",
+   "version": 1,
+   "file": "galaxy-merger/web-merger-v1.mp4",
+   "asset": "galaxy-merger--web-merger--v1.mp4",
+   "release": "galaxy-merger",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/galaxy-merger/galaxy-merger--web-merger--v1.mp4",
+   "sha256": "0d01c5cd40b1509fb2c3cc722352f4c3178f76c195d4ba2351433981be069796",
+   "bytes": 1899248,
+   "duration_s": 32.87,
+   "width": 720,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Слияние галактик",
+    "en": "A galaxy merger"
+   }
+  },
+  {
+   "id": "imaginary-powers",
+   "variant": "web-imaginary-power",
+   "version": 1,
+   "file": "imaginary-powers/web-imaginary-power-v1.mp4",
+   "asset": "imaginary-powers--web-imaginary-power--v1.mp4",
+   "release": "imaginary-powers",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/imaginary-powers/imaginary-powers--web-imaginary-power--v1.mp4",
+   "sha256": "e85e4b08d4f1bb2f8658ecf9c97e445108d9dc348081901e277307a0b268a4fc",
+   "bytes": 1098701,
+   "duration_s": 20.65,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Комплексные степени",
+    "en": "Complex powers"
+   }
+  },
+  {
+   "id": "pi-day-spiral",
+   "variant": "web-spiral",
+   "version": 1,
+   "file": "pi-day-spiral/web-spiral-v1.mp4",
+   "asset": "pi-day-spiral--web-spiral--v1.mp4",
+   "release": "pi-day-spiral",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/pi-day-spiral/pi-day-spiral--web-spiral--v1.mp4",
+   "sha256": "c307dc5fb3a856dc729948b017586bb3f70b1baf6f9e7130b9796dc6ad7cfe28",
+   "bytes": 3151581,
+   "duration_s": 30.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Спираль числа π",
+    "en": "The spiral of π"
+   }
+  },
+  {
+   "id": "quadrupole",
+   "variant": "web",
+   "version": 1,
+   "file": "quadrupole/web-v1.mp4",
+   "asset": "quadrupole--web--v1.mp4",
+   "release": "quadrupole",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/quadrupole/quadrupole--web--v1.mp4",
+   "sha256": "f61f4ff53baa344f150f85862e8c3e8c5d2783417c4f65a46c9ea2a7ed8b77ca",
+   "bytes": 1308350,
+   "duration_s": 23.55,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Квадруполь: магнитная линза",
+    "en": "Quadrupole: a magnetic lens"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-geocentric",
+   "version": 1,
+   "file": "retrograde-motion/web-geocentric-v1.mp4",
+   "asset": "retrograde-motion--web-geocentric--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-geocentric--v1.mp4",
+   "sha256": "02434b8268c508f5ed4962368dd80dc8ba4b3fac7e33186245f47f44f485422d",
+   "bytes": 978745,
+   "duration_s": 21.43,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-jupiter",
+   "version": 1,
+   "file": "retrograde-motion/web-jupiter-v1.mp4",
+   "asset": "retrograde-motion--web-jupiter--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-jupiter--v1.mp4",
+   "sha256": "e6b47192dda3e4a8684bd9f645657ba023e75fbdfac66d2644a380ffea29b210",
+   "bytes": 703202,
+   "duration_s": 21.43,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-jupiter-card",
+   "version": 1,
+   "file": "retrograde-motion/web-jupiter-card-v1.mp4",
+   "asset": "retrograde-motion--web-jupiter-card--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-jupiter-card--v1.mp4",
+   "sha256": "629fb3e2f4068cbc8bc5aa109415cd7ac1f8dcd0df08848acb8ad20e2809f004",
+   "bytes": 91984,
+   "duration_s": 2.1,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-mars",
+   "version": 1,
+   "file": "retrograde-motion/web-mars-v1.mp4",
+   "asset": "retrograde-motion--web-mars--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-mars--v1.mp4",
+   "sha256": "ff36d7556009f6344ca57b2674ee7411951ebc1fa2dd74ea9159f8dd98e0de11",
+   "bytes": 744704,
+   "duration_s": 21.43,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-mars-card",
+   "version": 1,
+   "file": "retrograde-motion/web-mars-card-v1.mp4",
+   "asset": "retrograde-motion--web-mars-card--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-mars-card--v1.mp4",
+   "sha256": "9a752fadd97c90509764884c67d1c6830489253204fbad91eaaf7c52a4a54c00",
+   "bytes": 147632,
+   "duration_s": 2.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-mars-fourier",
+   "version": 1,
+   "file": "retrograde-motion/web-mars-fourier-v1.mp4",
+   "asset": "retrograde-motion--web-mars-fourier--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-mars-fourier--v1.mp4",
+   "sha256": "c2e173eb9a94df07904074dd90bf17c402bcb377024c3611d9ff9e78180e83b1",
+   "bytes": 1117261,
+   "duration_s": 30.25,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-saturn",
+   "version": 1,
+   "file": "retrograde-motion/web-saturn-v1.mp4",
+   "asset": "retrograde-motion--web-saturn--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-saturn--v1.mp4",
+   "sha256": "6224ffb205a952061534953bf9b4179e9028b0670a8627e044abe9947f3b5fcd",
+   "bytes": 765481,
+   "duration_s": 21.43,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-saturn-card",
+   "version": 1,
+   "file": "retrograde-motion/web-saturn-card-v1.mp4",
+   "asset": "retrograde-motion--web-saturn-card--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-saturn-card--v1.mp4",
+   "sha256": "56487bc83caa83d13ea8307d209351f5140ff79f52afa79a7e70825bb14e4887",
+   "bytes": 372959,
+   "duration_s": 2.4,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "retrograde-motion",
+   "variant": "web-saturn-fourier",
+   "version": 1,
+   "file": "retrograde-motion/web-saturn-fourier-v1.mp4",
+   "asset": "retrograde-motion--web-saturn-fourier--v1.mp4",
+   "release": "retrograde-motion",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/retrograde-motion/retrograde-motion--web-saturn-fourier--v1.mp4",
+   "sha256": "e4c682c212499ccac5d50c91f799a76a057d58e376a0c8f065a46498bb858980",
+   "bytes": 1343648,
+   "duration_s": 30.25,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Ретроградное движение",
+    "en": "Retrograde motion"
+   }
+  },
+  {
+   "id": "riemann-zeta",
+   "variant": "web-zeta",
+   "version": 1,
+   "file": "riemann-zeta/web-zeta-v1.mp4",
+   "asset": "riemann-zeta--web-zeta--v1.mp4",
+   "release": "riemann-zeta",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/riemann-zeta/riemann-zeta--web-zeta--v1.mp4",
+   "sha256": "e65da63f448f14f5078bb47dae2e61fe560911cd4c2618aabf0ff134a3272fc6",
+   "bytes": 1625846,
+   "duration_s": 61.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Спираль дзета-функции Римана",
+    "en": "The Riemann zeta spiral"
+   }
+  },
+  {
+   "id": "ring",
+   "variant": "web",
+   "version": 1,
+   "file": "ring/web-v1.mp4",
+   "asset": "ring--web--v1.mp4",
+   "release": "ring",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/ring/ring--web--v1.mp4",
+   "sha256": "5b428dc9ed002b98227003a16020ae1cb04d4a808b13714b0f28dfba1da4bff3",
+   "bytes": 3606930,
+   "duration_s": 72.22,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Собираем накопительное кольцо",
+    "en": "Building a storage ring"
+   }
+  },
+  {
+   "id": "rose-eight",
+   "variant": "web",
+   "version": 1,
+   "file": "rose-eight/web-v1.mp4",
+   "asset": "rose-eight--web--v1.mp4",
+   "release": "rose-eight",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/rose-eight/rose-eight--web--v1.mp4",
+   "sha256": "629b8e01024d15cb35ee2b611eb3739baca49f6156e8589abf1b468a29deb4e8",
+   "bytes": 2072147,
+   "duration_s": 30.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Восьмёрка роз",
+    "en": "Eight roses"
+   }
+  },
+  {
+   "id": "sextupole",
+   "variant": "web",
+   "version": 1,
+   "file": "sextupole/web-v1.mp4",
+   "asset": "sextupole--web--v1.mp4",
+   "release": "sextupole",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/sextupole/sextupole--web--v1.mp4",
+   "sha256": "5db413e2dd2018306b5fbd775b18af4c53671b418f95ca06b5c79f92f7f8c080",
+   "bytes": 959795,
+   "duration_s": 17.55,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Секступоль: поправка для разных импульсов",
+    "en": "Sextupole: a correction for different momenta"
+   }
+  },
+  {
+   "id": "strange-attractors",
+   "variant": "web-aizawa",
+   "version": 1,
+   "file": "strange-attractors/web-aizawa-v1.mp4",
+   "asset": "strange-attractors--web-aizawa--v1.mp4",
+   "release": "strange-attractors",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/strange-attractors/strange-attractors--web-aizawa--v1.mp4",
+   "sha256": "7223b8985c06cefb02794c337c1abe604c5f4617d629ead647106492943ae1a5",
+   "bytes": 1124018,
+   "duration_s": 21.5,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Странные аттракторы",
+    "en": "Strange attractors"
+   }
+  },
+  {
+   "id": "strange-attractors",
+   "variant": "web-dadras",
+   "version": 1,
+   "file": "strange-attractors/web-dadras-v1.mp4",
+   "asset": "strange-attractors--web-dadras--v1.mp4",
+   "release": "strange-attractors",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/strange-attractors/strange-attractors--web-dadras--v1.mp4",
+   "sha256": "4758fa607677739855beebf2edae83d434baad36b14365b183a9bf20599e7b22",
+   "bytes": 1369539,
+   "duration_s": 21.5,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Странные аттракторы",
+    "en": "Strange attractors"
+   }
+  },
+  {
+   "id": "strange-attractors",
+   "variant": "web-lorenz",
+   "version": 1,
+   "file": "strange-attractors/web-lorenz-v1.mp4",
+   "asset": "strange-attractors--web-lorenz--v1.mp4",
+   "release": "strange-attractors",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/strange-attractors/strange-attractors--web-lorenz--v1.mp4",
+   "sha256": "308a579a4316f2e839149e9dd05ab26a6d958c6aab00fee566e26924ebb27fb8",
+   "bytes": 1507560,
+   "duration_s": 21.5,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Странные аттракторы",
+    "en": "Strange attractors"
+   }
+  },
+  {
+   "id": "strange-attractors",
+   "variant": "web-rossler",
+   "version": 1,
+   "file": "strange-attractors/web-rossler-v1.mp4",
+   "asset": "strange-attractors--web-rossler--v1.mp4",
+   "release": "strange-attractors",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/strange-attractors/strange-attractors--web-rossler--v1.mp4",
+   "sha256": "2e07151f083427dbe69649f77dda96a6d2365a917e5440ed6b8ccfbff6a4e359",
+   "bytes": 698582,
+   "duration_s": 21.5,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Странные аттракторы",
+    "en": "Strange attractors"
+   }
+  },
+  {
+   "id": "strange-attractors",
+   "variant": "web-thomas",
+   "version": 1,
+   "file": "strange-attractors/web-thomas-v1.mp4",
+   "asset": "strange-attractors--web-thomas--v1.mp4",
+   "release": "strange-attractors",
+   "url": "https://github.com/NeutrinoHit/media-mechanics/releases/download/strange-attractors/strange-attractors--web-thomas--v1.mp4",
+   "sha256": "dc3dce9b507f4d81adbb7e6b434e3e4a4526995daf8b92ee32f7132435705028",
+   "bytes": 1754072,
+   "duration_s": 21.5,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Странные аттракторы",
+    "en": "Strange attractors"
+   }
+  }
+ ]
+}
